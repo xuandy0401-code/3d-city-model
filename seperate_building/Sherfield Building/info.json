@@ -1,0 +1,240 @@
+{
+  "id": 26,
+  "name": "Sherfield Building",
+  "has_name": true,
+  "height_m": 17.5,
+  "images": [
+    {
+      "filename": "51.497964_-0.176968_h315_p20.jpg",
+      "heading": 315,
+      "pitch": 20,
+      "distance_m": 87.4
+    },
+    {
+      "filename": "51.498041_-0.177810_h0_p20.jpg",
+      "heading": 0,
+      "pitch": 20,
+      "distance_m": 56.0
+    },
+    {
+      "filename": "51.498041_-0.177810_h315_p20.jpg",
+      "heading": 315,
+      "pitch": 20,
+      "distance_m": 68.1
+    },
+    {
+      "filename": "51.498041_-0.177810_h45_p20.jpg",
+      "heading": 45,
+      "pitch": 20,
+      "distance_m": 94.5
+    },
+    {
+      "filename": "51.498266_-0.178634_h0_p20.jpg",
+      "heading": 0,
+      "pitch": 20,
+      "distance_m": 22.3
+    },
+    {
+      "filename": "51.498305_-0.177490_h0_p20.jpg",
+      "heading": 0,
+      "pitch": 20,
+      "distance_m": 29.2
+    },
+    {
+      "filename": "51.498305_-0.177490_h315_p20.jpg",
+      "heading": 315,
+      "pitch": 20,
+      "distance_m": 35.5
+    },
+    {
+      "filename": "51.498305_-0.177490_h45_p20.jpg",
+      "heading": 45,
+      "pitch": 20,
+      "distance_m": 49.3
+    },
+    {
+      "filename": "51.498484_-0.177131_h0_p20.jpg",
+      "heading": 0,
+      "pitch": 20,
+      "distance_m": 12.2
+    },
+    {
+      "filename": "51.498484_-0.177131_h315_p20.jpg",
+      "heading": 315,
+      "pitch": 20,
+      "distance_m": 14.9
+    },
+    {
+      "filename": "51.498484_-0.177131_h45_p20.jpg",
+      "heading": 45,
+      "pitch": 20,
+      "distance_m": 20.7
+    },
+    {
+      "filename": "51.498496_-0.177898_h0_p20.jpg",
+      "heading": 0,
+      "pitch": 20,
+      "distance_m": 4.3
+    },
+    {
+      "filename": "51.498496_-0.177898_h270_p20.jpg",
+      "heading": 270,
+      "pitch": 20,
+      "distance_m": 26.4
+    },
+    {
+      "filename": "51.498496_-0.177898_h45_p20.jpg",
+      "heading": 45,
+      "pitch": 20,
+      "distance_m": 7.2
+    },
+    {
+      "filename": "51.498500_-0.176696_h0_p20.jpg",
+      "heading": 0,
+      "pitch": 20,
+      "distance_m": 14.2
+    },
+    {
+      "filename": "51.498500_-0.176696_h315_p20.jpg",
+      "heading": 315,
+      "pitch": 20,
+      "distance_m": 17.2
+    },
+    {
+      "filename": "51.498595_-0.176171_h270_p20.jpg",
+      "heading": 270,
+      "pitch": 20,
+      "distance_m": 49.6
+    },
+    {
+      "filename": "51.498646_-0.179484_h90_p20.jpg",
+      "heading": 90,
+      "pitch": 20,
+      "distance_m": 56.3
+    },
+    {
+      "filename": "51.498691_-0.179009_h90_p20.jpg",
+      "heading": 90,
+      "pitch": 20,
+      "distance_m": 22.5
+    },
+    {
+      "filename": "51.498797_-0.178368_h135_p20.jpg",
+      "heading": 135,
+      "pitch": 20,
+      "distance_m": 10.7
+    },
+    {
+      "filename": "51.498797_-0.178368_h180_p20.jpg",
+      "heading": 180,
+      "pitch": 20,
+      "distance_m": 8.8
+    },
+    {
+      "filename": "51.498797_-0.178368_h225_p20.jpg",
+      "heading": 225,
+      "pitch": 20,
+      "distance_m": 14.8
+    },
+    {
+      "filename": "51.498812_-0.177798_h135_p20.jpg",
+      "heading": 135,
+      "pitch": 20,
+      "distance_m": 6.7
+    },
+    {
+      "filename": "51.498812_-0.177798_h180_p20.jpg",
+      "heading": 180,
+      "pitch": 20,
+      "distance_m": 5.5
+    },
+    {
+      "filename": "51.498812_-0.177798_h225_p20.jpg",
+      "heading": 225,
+      "pitch": 20,
+      "distance_m": 9.4
+    },
+    {
+      "filename": "51.499221_-0.178533_h180_p20.jpg",
+      "heading": 180,
+      "pitch": 20,
+      "distance_m": 57.6
+    },
+    {
+      "filename": "51.499675_-0.178542_h180_p20.jpg",
+      "heading": 180,
+      "pitch": 20,
+      "distance_m": 108.5
+    }
+  ],
+  "footprint": [
+    [
+      -253.06,
+      -46.43
+    ],
+    [
+      -253.28,
+      -45.11
+    ],
+    [
+      -213.0,
+      -38.55
+    ],
+    [
+      -209.5,
+      -37.98
+    ],
+    [
+      -126.92,
+      -24.56
+    ],
+    [
+      -112.38,
+      -22.2
+    ],
+    [
+      -113.56,
+      -15.03
+    ],
+    [
+      -108.35,
+      -14.18
+    ],
+    [
+      -110.9,
+      1.73
+    ],
+    [
+      -111.06,
+      2.68
+    ],
+    [
+      -174.39,
+      -7.61
+    ],
+    [
+      -180.46,
+      -8.6
+    ],
+    [
+      -200.58,
+      -11.87
+    ],
+    [
+      -215.62,
+      -14.32
+    ],
+    [
+      -217.09,
+      -14.56
+    ],
+    [
+      -262.36,
+      -21.92
+    ],
+    [
+      -258.22,
+      -47.28
+    ]
+  ]
+}

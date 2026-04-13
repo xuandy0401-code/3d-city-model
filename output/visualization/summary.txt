@@ -1,0 +1,24 @@
+============================================================
+  IC South Kensington – 3D City Model Pipeline Summary
+============================================================
+
+  Street-view images   : 488
+  Camera locations     : 61
+  Heading directions   : [0, 45, 90, 135, 180, 225, 270, 315]
+
+  OSM buildings found  : 440
+  Named buildings      : 113
+  Height range         : 3.5 – 87.5 m
+
+  Images classified    : 475 / 488 (97.3%)
+  Buildings w/ images  : 99
+
+  Textured facades     : 891
+  Mean texture cov.    : 97.1%
+
+  Output files:
+    models/campus_lod1.obj  – 3D building geometry
+    models/campus_lod1.mtl  – material library with textures
+    textures/               – facade texture PNG images
+    visualization/          – maps and previews
+============================================================

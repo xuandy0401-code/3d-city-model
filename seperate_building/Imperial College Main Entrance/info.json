@@ -1,0 +1,36 @@
+{
+  "id": 21,
+  "name": "Imperial College Main Entrance",
+  "has_name": true,
+  "height_m": 15.0,
+  "images": [
+    {
+      "filename": "51.499271_-0.174477_h180_p20.jpg",
+      "heading": 180,
+      "pitch": 20,
+      "distance_m": 16.3
+    }
+  ],
+  "footprint": [
+    [
+      26.77,
+      40.8
+    ],
+    [
+      1.63,
+      36.81
+    ],
+    [
+      4.48,
+      18.86
+    ],
+    [
+      29.62,
+      22.85
+    ],
+    [
+      28.0,
+      33.07
+    ]
+  ]
+}
