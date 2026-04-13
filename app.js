@@ -16,7 +16,7 @@ import { OrbitControls }         from 'three/addons/controls/OrbitControls.js';
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const DATA_URL  = './building_data.json';
-const IMG_BASE  = '../IC_campus_streetview/';
+const IMG_BASE  = './IC_campus_streetview/';
 
 const HEADING_NAMES = {0:'N',45:'NE',90:'E',135:'SE',180:'S',225:'SW',270:'W',315:'NW'};
 
